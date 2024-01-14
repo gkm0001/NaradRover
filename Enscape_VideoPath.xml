@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<VideoPath version="1" easingInOut="1" shakyCam="0">
+    <Keyframes count="7">
+        <Keyframe order="0">
+            <Position x="17.7719" y="1.69862" z="-3.31756" />
+            <LookAt x="-0.369096" y="-0.0907341" z="-0.924952" />
+        </Keyframe>
+        <Keyframe order="1">
+            <Position x="17.7719" y="1.69862" z="-3.31756" />
+            <LookAt x="-0.369096" y="-0.0907341" z="-0.924952" />
+        </Keyframe>
+        <Keyframe order="2">
+            <Position x="26.1778" y="5.51197" z="-2.40175" />
+            <LookAt x="-0.737063" y="-0.334733" z="-0.587104" />
+        </Keyframe>
+        <Keyframe order="3">
+            <Position x="20.4335" y="2.94702" z="-14.157" />
+            <LookAt x="-0.717457" y="-0.304615" z="0.62647" />
+        </Keyframe>
+        <Keyframe order="4">
+            <Position x="9.36528" y="1.43647" z="-14.9386" />
+            <LookAt x="0.776911" y="-0.0999004" z="0.621634" />
+        </Keyframe>
+        <Keyframe order="5">
+            <Position x="9.6073" y="3.62993" z="-9.78945" />
+            <LookAt x="0.809597" y="-0.563786" z="-0.163393" />
+        </Keyframe>
+        <Keyframe order="6">
+            <Position x="13.0602" y="1.20416" z="-5.89318" />
+            <LookAt x="0.274344" y="-0.00880764" z="-0.961591" />
+        </Keyframe>
+    </Keyframes>
+</VideoPath>
