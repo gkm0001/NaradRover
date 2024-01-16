@@ -50,3 +50,41 @@
 //   camera.updateProjectionMatrix();
 //   renderer.setSize(window.innerWidth, window.innerHeight);
 // });
+
+
+
+// main.js
+
+// Create scene
+// main.js
+
+// Create scene
+// const scene = new THREE.Scene();
+
+// // Create camera
+// const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+// camera.position.z = 5;
+
+// // Create renderer
+// const renderer = new THREE.WebGLRenderer();
+// renderer.setSize(window.innerWidth, window.innerHeight);
+// document.getElementById('model-container').appendChild(renderer.domElement);
+
+// // Load glTF model
+// const loader = new THREE.GLTFLoader();
+// loader.load('Models/scene.gltf', (gltf) => {
+//     scene.add(gltf.scene);
+// });
+
+// // Add ambient light
+// const ambientLight = new THREE.AmbientLight(0xffffff, 1);
+// scene.add(ambientLight);
+
+// // Animation loop
+// const animate = function () {
+//     requestAnimationFrame(animate);
+//     renderer.render(scene, camera);
+// };
+
+// animate();
+
